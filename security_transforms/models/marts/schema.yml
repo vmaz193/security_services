@@ -1,0 +1,97 @@
+version: 2
+
+models:
+  # Dimension Models
+  - name: dim_clients
+    description: "Dimension table containing descriptive information about each client."
+    columns:
+      - name: client_id
+        description: "The unique identifier for a client. This is the primary key."
+        tests:
+          - not_null
+          - unique
+      - name: district_id
+        description: "Foreign key to the dim_districts table."
+        tests:
+          - relationships:
+              to: ref('dim_districts')
+              field: district_id
+      - name: service_line
+        description: "Foreign key to the dim_service_lines table."
+        tests:
+          - relationships:
+              to: ref('dim_service_lines')
+              field: service_line
+      - name: client_status
+        description: "The current status of the client (e.g., Active, At Risk)."
+
+  - name: dim_districts
+    description: "Dimension table with aggregated performance metrics for each operational district."
+    columns:
+      - name: district_id
+        description: "The unique identifier for a district. This is the primary key."
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_business_units
+    description: "Dimension table describing each business unit and its location."
+    columns:
+      - name: business_unit_id
+        description: "The unique identifier for a business unit. This is the primary key."
+        tests:
+          - not_null
+          - unique
+      - name: region
+        description: "The geographical region of the business unit."
+      - name: country
+        description: "The country of the business unit."
+
+  - name: dim_service_lines
+    description: "Dimension table listing the unique service lines offered."
+    columns:
+      - name: service_line
+        description: "The name of the service line. This is the primary key."
+        tests:
+          - not_null
+          - unique
+
+  # Fact Models
+  - name: fct_client_health
+    description: "Fact table containing client satisfaction and incident metrics. Can be joined with client, district, and service line dimensions."
+    columns:
+      - name: client_health_id
+        description: "The unique surrogate key for each client health record."
+        tests:
+          - not_null
+          - unique
+      - name: client_id
+        description: "Foreign key to the dim_clients table."
+        tests:
+          - relationships:
+              to: ref('dim_clients')
+              field: client_id
+      - name: district_id
+        description: "Foreign key to the dim_districts table."
+        tests:
+          - relationships:
+              to: ref('dim_districts')
+              field: district_id
+
+  - name: fct_finances_by_district
+    description: "Fact table containing financial metrics, including allocated overhead, aggregated by district."
+    columns:
+      - name: district_id
+        description: "Foreign key to the dim_districts table."
+        tests:
+          - relationships:
+              to: ref('dim_districts')
+              field: district_id
+      - name: business_unit_id
+        description: "Foreign key to the dim_business_units table."
+        tests:
+          - relationships:
+              to: ref('dim_business_units')
+              field: business_unit_id
+      - name: true_profit
+        description: "Calculated profit after subtracting allocated corporate overhead from revenue."

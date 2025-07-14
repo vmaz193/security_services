@@ -1,0 +1,106 @@
+version: 2
+
+models:
+  - name: stg_public__client_service_delivery
+    description: "Staging model for client service data. Standardizes keys and cleans data."
+    columns:
+      - name: client_id
+        description: "Unique identifier for each client."
+        tests:
+          - not_null
+      - name: district_id
+        description: "Standardized foreign key for the operational district."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_public__workforce_operation')
+              field: district_id
+      - name: service_line
+        description: "Standardized name of the service line provided."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['On-Site Guarding', 'Electronic Security', 'Mobile Patrol', 'Corporate Risk Management']
+      - name: was_client_retained
+        description: "Flag indicating client retention."
+        tests:
+          - accepted_values:
+              values: [0, 1]
+
+  - name: stg_public__finance
+    description: "Staging model for financial data. Standardizes keys."
+    columns:
+      - name: region
+        description: "Standardized geographical region."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['North America', 'Europe', 'Asia-Pacific', 'Latin America']
+      - name: business_unit_id
+        description: "Standardized unique identifier for the business unit."
+        tests:
+          - not_null
+      - name: monthly_revenue_usd
+        description: "The total monthly revenue in USD."
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+
+  - name: stg_public__growth
+    description: "Staging model for business growth metrics. Standardizes keys."
+    columns:
+      - name: quarter_date
+        description: "The first day of the fiscal quarter."
+        tests:
+          - not_null
+      - name: service_line
+        description: "The name of the service line offering."
+        tests:
+          - not_null
+      - name: region
+        description: "Standardized geographical region."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_public__finance')
+              field: region
+
+  - name: stg_public__risk_compliance
+    description: "Staging model for risk and compliance data. Standardizes keys."
+    columns:
+      - name: risk_date
+        description: "The date of the risk record."
+        tests:
+          - not_null
+      - name: business_unit_id
+        description: "Standardized unique identifier for the business unit."
+        tests:
+          - not_null
+      - name: district_id
+        description: "Standardized unique identifier for the district."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_public__workforce_operation')
+              field: district_id
+
+  - name: stg_public__workforce_operation
+    description: "Staging model for workforce data. This is a primary source for district information."
+    columns:
+      - name: district_id
+        description: "Standardized unique identifier for the district. This is the primary key."
+        tests:
+          - not_null
+          - unique
+      - name: employee_turnover_rate_annual_percent
+        description: "The annual employee turnover rate."
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+              max_value: 100
+      - name: employee_engagement_score
+        description: "The employee engagement score."
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 1
+              max_value: 10

@@ -1,0 +1,1001 @@
+quarter,service_line,region,market_share_percent_in_region,new_tech_adoption_by_clients_percent,new_business_pipeline_usd,proposal_win_rate_percent,yoy_carbon_footprint_reduction_percent
+2024-Q3,Corporate Risk Management,East,23.5,31.0,1897891,43.1,4.0
+2025-Q2,Electronic Security,North,11.2,54.2,7400933,43.0,0.7
+2025-Q3,On-site Guarding,West,7.8,37.6,1053380,51.2,3.5
+2025-Q4,On-site Guarding,North,12.2,39.0,9002183,34.1,2.2
+2025-Q4,On-site Guarding,West,13.3,32.4,7674265,46.1,4.8
+2025-Q1,Electronic Security,North,17.4,33.2,5489395,50.1,4.3
+2024-Q3,Electronic Security,East,18.8,29.5,1241285,34.7,3.7
+2024-Q1,Electronic Security,East,12.0,56.6,8115478,31.6,0.2
+2024-Q3,Electronic Security,West,6.7,55.4,1412323,46.0,0.6
+2025-Q4,Corporate Risk Management,North,20.3,39.1,1597214,51.5,4.7
+2024-Q3,Mobile Patrol,East,20.6,34.8,8896254,39.5,4.1
+2025-Q1,Electronic Security,North,7.3,44.3,8994943,44.7,-0.3
+2025-Q4,Mobile Patrol,East,6.4,44.8,3593215,56.8,4.9
+2024-Q3,On-site Guarding,South,11.5,56.9,1497267,30.8,4.3
+2025-Q1,Corporate Risk Management,West,17.4,59.6,3966665,32.3,4.6
+2024-Q4,Mobile Patrol,East,7.2,45.1,9957849,58.5,-0.5
+2024-Q4,Mobile Patrol,South,21.2,42.2,6709907,51.0,1.6
+2025-Q1,Corporate Risk Management,West,19.1,42.3,4795146,54.4,0.0
+2025-Q4,Corporate Risk Management,East,9.9,37.7,8452394,50.6,1.4
+2024-Q4,Mobile Patrol,South,12.8,48.0,4061269,57.3,2.3
+2025-Q2,Corporate Risk Management,South,13.5,28.9,9686657,38.1,1.1
+2025-Q1,Corporate Risk Management,West,16.7,41.3,5984034,55.5,2.2
+2024-Q3,Corporate Risk Management,North,21.5,48.2,8183530,30.4,3.5
+2024-Q4,Electronic Security,North,19.0,33.9,8122607,59.1,3.2
+2024-Q3,Electronic Security,South,17.7,41.2,4601814,34.1,-0.9
+2024-Q1,Corporate Risk Management,North,19.2,23.1,8980828,56.0,3.1
+2025-Q3,Corporate Risk Management,West,9.8,34.5,8055240,54.2,0.5
+2025-Q1,On-site Guarding,South,23.6,36.2,4137133,46.6,4.7
+2024-Q1,On-site Guarding,East,19.9,31.7,1626290,39.9,-0.4
+2025-Q3,Mobile Patrol,East,5.3,28.0,2672780,52.4,3.7
+2024-Q4,On-site Guarding,West,18.3,34.7,2742972,56.9,4.4
+2024-Q1,On-site Guarding,South,24.5,24.8,4217382,33.4,4.4
+2024-Q1,Mobile Patrol,South,5.3,34.9,4592854,58.4,2.7
+2025-Q1,Electronic Security,East,22.0,33.6,4265438,49.5,3.3
+2025-Q2,Mobile Patrol,North,15.0,32.2,1537604,52.3,1.0
+2025-Q4,Corporate Risk Management,South,16.7,48.5,1752552,39.9,2.6
+2024-Q2,On-site Guarding,East,15.1,32.6,6565278,53.0,4.8
+2025-Q4,Mobile Patrol,East,9.2,30.2,4403497,51.0,2.3
+2025-Q2,Electronic Security,South,16.0,34.4,8186044,39.4,-0.7
+2024-Q1,Electronic Security,West,18.7,49.8,6539313,42.6,1.4
+2025-Q2,On-site Guarding,South,12.8,30.5,6231923,56.9,-0.4
+2024-Q4,Electronic Security,South,11.5,22.7,5024303,33.1,0.0
+2025-Q2,Electronic Security,North,17.6,30.3,3567398,52.7,3.4
+2024-Q1,Mobile Patrol,North,9.6,47.0,6657230,30.3,2.0
+2024-Q2,On-site Guarding,East,23.9,25.9,7836568,56.7,5.0
+2024-Q1,Mobile Patrol,East,9.3,48.5,1927510,32.1,4.2
+2024-Q1,Mobile Patrol,North,22.4,35.5,1109854,40.7,-0.3
+2025-Q1,Corporate Risk Management,East,7.4,49.0,1685488,59.9,1.6
+2024-Q3,On-site Guarding,North,5.4,38.5,4115121,39.4,3.7
+2024-Q1,Electronic Security,South,11.4,58.2,3506905,35.4,3.6
+2024-Q3,Electronic Security,East,7.9,27.5,2902949,40.3,3.0
+2024-Q1,On-site Guarding,East,8.5,30.4,3243130,41.1,3.8
+2025-Q3,Mobile Patrol,West,7.3,49.8,4784093,59.8,-0.8
+2024-Q4,Mobile Patrol,East,11.4,26.4,7329836,34.3,3.5
+2024-Q3,Electronic Security,South,18.8,54.9,3254277,54.6,1.1
+2025-Q1,Mobile Patrol,West,5.4,43.6,3330568,52.5,0.2
+2025-Q3,Electronic Security,East,13.1,31.9,3243224,53.6,-0.1
+2025-Q2,Mobile Patrol,East,19.5,39.2,4763866,32.0,0.6
+2025-Q3,Corporate Risk Management,North,21.7,50.8,3895618,43.5,-0.7
+2024-Q2,On-site Guarding,West,7.9,57.5,4180903,33.0,0.6
+2025-Q3,Mobile Patrol,East,7.8,49.0,6577734,37.8,0.3
+2024-Q2,Mobile Patrol,South,14.3,32.3,3050984,53.6,2.4
+2024-Q2,Corporate Risk Management,East,14.3,52.4,1474659,35.3,0.3
+2025-Q4,Electronic Security,West,10.2,21.4,4282557,47.1,3.7
+2025-Q2,Electronic Security,South,16.5,30.2,9662980,53.9,1.6
+2025-Q2,Corporate Risk Management,North,17.8,40.0,2356910,59.5,4.8
+2025-Q4,Corporate Risk Management,North,16.7,56.8,7072370,44.1,-0.4
+2025-Q4,On-site Guarding,South,11.3,26.8,1911064,44.7,0.4
+2025-Q1,Electronic Security,North,24.0,50.2,4423050,58.8,-0.6
+2024-Q1,Mobile Patrol,South,6.3,41.9,5261586,34.9,0.1
+2025-Q2,Mobile Patrol,East,11.0,42.3,9685292,36.7,3.9
+2024-Q4,Electronic Security,South,6.7,34.9,1899864,32.4,2.7
+2025-Q3,Mobile Patrol,West,24.8,54.8,9863922,41.5,3.7
+2024-Q4,Mobile Patrol,East,20.4,33.4,6682234,32.5,4.6
+2025-Q3,Electronic Security,South,16.9,44.3,1949866,39.0,0.6
+2025-Q2,On-site Guarding,West,6.9,34.3,3507113,35.1,1.2
+2025-Q1,Corporate Risk Management,North,21.6,22.8,1737181,48.2,0.3
+2025-Q4,Corporate Risk Management,North,24.7,37.7,9500761,57.1,3.4
+2025-Q2,On-site Guarding,East,15.0,38.0,1146637,40.3,1.5
+2025-Q4,On-site Guarding,West,17.2,32.3,2271655,59.1,0.0
+2025-Q1,Corporate Risk Management,East,14.8,59.8,4681155,49.6,2.7
+2024-Q1,Electronic Security,West,24.2,46.7,3132824,36.5,1.7
+2024-Q3,Corporate Risk Management,West,12.6,46.5,6117141,31.1,0.1
+2024-Q1,Corporate Risk Management,South,17.1,22.4,5782263,43.5,0.0
+2024-Q2,On-site Guarding,East,10.6,34.4,9881157,59.1,3.0
+2024-Q2,Corporate Risk Management,South,7.8,56.6,9160291,41.7,-0.6
+2025-Q2,On-site Guarding,West,22.0,40.1,9087195,51.7,0.7
+2025-Q4,Mobile Patrol,North,13.7,32.9,8086774,59.7,2.3
+2024-Q1,On-site Guarding,East,17.6,57.2,3917161,42.4,1.0
+2025-Q4,Mobile Patrol,East,22.7,27.6,2066438,53.5,0.7
+2024-Q2,Mobile Patrol,South,9.3,34.7,7916298,35.8,1.2
+2024-Q1,Electronic Security,West,20.8,22.8,2875239,51.2,2.6
+2025-Q4,Electronic Security,North,7.0,21.9,2129775,36.7,3.6
+2025-Q1,Electronic Security,South,14.6,21.5,4316802,34.9,3.8
+2024-Q2,Corporate Risk Management,West,12.2,50.0,7494839,34.4,3.6
+2025-Q3,Electronic Security,North,11.7,52.9,9737648,57.1,0.8
+2025-Q2,On-site Guarding,West,15.4,25.1,3587103,40.5,4.0
+2024-Q4,Corporate Risk Management,South,12.6,55.7,9802604,58.5,2.8
+2025-Q2,Electronic Security,North,21.9,57.4,3227855,58.7,4.2
+2025-Q3,Electronic Security,East,14.1,42.3,7747334,53.3,4.2
+2024-Q3,On-site Guarding,South,12.4,25.0,7914590,49.2,0.9
+2024-Q2,Mobile Patrol,West,8.3,36.3,3852445,50.4,2.9
+2024-Q2,On-site Guarding,North,25.0,20.3,4960357,44.2,1.8
+2025-Q1,On-site Guarding,East,6.2,45.5,6213446,42.2,0.2
+2024-Q1,On-site Guarding,East,12.9,54.6,8823483,38.9,4.4
+2025-Q4,Mobile Patrol,North,21.2,59.4,7088981,39.9,1.0
+2024-Q2,Corporate Risk Management,West,10.8,24.5,6465021,48.4,0.5
+2025-Q4,On-site Guarding,East,9.6,38.7,1455768,52.8,3.4
+2025-Q1,Electronic Security,East,10.6,38.3,1734984,35.0,2.7
+2025-Q2,On-site Guarding,South,22.8,44.0,4018217,41.5,3.4
+2024-Q4,Corporate Risk Management,North,5.3,32.1,7289027,34.8,2.3
+2024-Q3,Electronic Security,West,5.2,32.6,8918270,54.3,-0.9
+2025-Q3,Corporate Risk Management,South,16.8,38.4,6059973,49.4,3.7
+2025-Q1,Mobile Patrol,North,8.7,57.1,5879564,51.7,1.6
+2025-Q3,Corporate Risk Management,North,19.2,27.9,8640728,34.3,0.9
+2025-Q3,Mobile Patrol,West,24.8,41.8,6340811,59.5,-1.0
+2024-Q1,On-site Guarding,East,18.4,32.9,4239038,51.0,-0.5
+2025-Q2,Mobile Patrol,South,21.2,21.3,1782516,46.0,2.7
+2024-Q1,Mobile Patrol,South,6.1,41.0,7418132,57.1,3.3
+2024-Q4,Corporate Risk Management,South,20.6,58.1,1840347,56.2,2.3
+2025-Q4,Electronic Security,East,10.1,57.4,3475731,33.1,-0.5
+2024-Q1,Mobile Patrol,South,10.7,27.0,7858979,35.7,2.0
+2024-Q4,Corporate Risk Management,North,21.1,55.4,3659150,54.1,4.3
+2025-Q4,Electronic Security,North,17.0,31.1,2381194,59.9,-0.9
+2024-Q3,On-site Guarding,South,12.7,24.6,6636922,51.9,0.2
+2025-Q3,Mobile Patrol,North,9.6,53.0,9752060,36.7,2.3
+2024-Q3,Mobile Patrol,East,17.9,31.8,2791261,43.4,0.5
+2025-Q3,Electronic Security,East,18.3,33.2,8940492,42.8,3.3
+2025-Q3,Corporate Risk Management,South,12.5,21.6,6046633,33.1,3.2
+2024-Q3,Corporate Risk Management,West,20.3,54.8,3090306,57.4,1.2
+2024-Q3,On-site Guarding,West,6.2,36.0,7175528,30.7,4.1
+2024-Q4,Electronic Security,West,19.1,35.3,4090246,32.4,3.9
+2025-Q1,Mobile Patrol,South,6.3,43.8,7939582,49.5,-0.8
+2024-Q2,Corporate Risk Management,East,20.5,40.0,9852697,34.9,3.6
+2025-Q3,Corporate Risk Management,South,21.3,47.7,3656162,54.6,2.6
+2025-Q3,Mobile Patrol,East,21.6,24.1,8521607,30.4,4.6
+2024-Q2,Mobile Patrol,East,24.3,55.8,3797519,53.0,1.5
+2025-Q3,On-site Guarding,South,10.3,36.5,4154917,31.0,2.6
+2024-Q1,On-site Guarding,East,6.9,39.3,3485438,48.1,4.4
+2024-Q1,On-site Guarding,North,23.8,54.2,7282513,51.2,2.0
+2024-Q1,On-site Guarding,East,18.6,34.4,8650871,52.3,3.5
+2024-Q2,On-site Guarding,West,10.0,27.4,4826412,54.7,4.0
+2024-Q2,Corporate Risk Management,East,11.8,45.6,5373623,43.7,4.1
+2025-Q1,Mobile Patrol,South,15.8,34.8,3600937,53.0,1.7
+2025-Q3,Corporate Risk Management,North,14.7,28.9,5974917,39.6,4.5
+2024-Q1,Mobile Patrol,South,19.4,40.8,3923069,51.4,4.7
+2024-Q3,Electronic Security,South,7.0,32.8,4088598,49.7,4.9
+2025-Q4,On-site Guarding,South,17.9,21.9,9917449,43.7,-1.0
+2025-Q3,Mobile Patrol,East,8.5,54.3,2340743,36.4,4.1
+2025-Q4,Mobile Patrol,South,9.2,39.0,2395900,56.3,1.7
+2024-Q3,On-site Guarding,North,15.3,38.0,9607943,57.1,1.1
+2025-Q4,Corporate Risk Management,West,8.9,53.4,4472099,43.5,2.4
+2025-Q1,Corporate Risk Management,South,16.2,59.0,9506461,41.4,0.4
+2025-Q4,Mobile Patrol,East,23.9,59.9,7086678,43.6,4.8
+2025-Q3,On-site Guarding,North,9.4,35.5,9799614,30.2,1.8
+2025-Q4,On-site Guarding,South,10.9,55.6,5460483,56.2,0.3
+2024-Q1,Corporate Risk Management,South,9.1,58.6,4410327,30.5,2.8
+2024-Q2,On-site Guarding,South,20.5,26.4,1054568,52.0,-0.5
+2024-Q1,Mobile Patrol,East,5.4,52.9,4808798,38.0,2.3
+2024-Q1,Electronic Security,South,22.5,25.7,1107886,56.8,-0.2
+2025-Q1,Corporate Risk Management,South,15.6,42.9,1990273,47.8,2.5
+2025-Q4,Mobile Patrol,South,21.9,30.1,1373839,43.3,2.0
+2025-Q2,Corporate Risk Management,South,22.6,58.4,3098218,41.3,3.1
+2025-Q2,Electronic Security,North,7.7,33.5,6342717,34.8,5.0
+2024-Q4,Corporate Risk Management,West,7.0,28.8,4605266,48.2,0.6
+2024-Q1,Mobile Patrol,North,20.4,31.8,8550701,45.7,2.8
+2025-Q3,Corporate Risk Management,South,22.7,24.0,2627963,34.7,2.5
+2025-Q3,On-site Guarding,West,12.7,44.6,3367123,46.9,-0.7
+2024-Q2,Corporate Risk Management,East,5.3,37.8,9777280,49.2,4.8
+2024-Q1,Mobile Patrol,South,5.9,22.5,5253598,52.0,-0.6
+2025-Q3,Mobile Patrol,East,13.9,20.9,4677299,46.0,-0.1
+2024-Q4,Mobile Patrol,West,14.7,26.6,7571715,42.3,2.4
+2024-Q4,Electronic Security,South,24.2,48.0,6706088,38.1,0.6
+2024-Q4,On-site Guarding,West,22.1,34.4,6922869,30.9,4.0
+2025-Q2,Electronic Security,East,10.2,37.4,5795194,42.7,1.6
+2024-Q2,Mobile Patrol,South,12.4,55.6,3449313,56.4,0.6
+2025-Q1,Corporate Risk Management,West,15.7,21.1,1385996,36.8,0.4
+2024-Q3,Mobile Patrol,North,21.2,55.4,8853602,37.3,0.4
+2025-Q2,Corporate Risk Management,South,23.6,48.1,6494221,56.1,2.7
+2024-Q2,Electronic Security,West,8.8,29.8,7674268,53.3,4.3
+2025-Q2,On-site Guarding,East,20.0,57.8,9881069,42.8,2.9
+2024-Q3,Electronic Security,North,5.5,25.2,7038430,43.5,3.1
+2024-Q1,Mobile Patrol,South,17.0,30.7,8943181,44.2,1.5
+2024-Q3,Electronic Security,East,15.6,49.3,8023434,47.2,1.9
+2025-Q3,Mobile Patrol,West,17.2,39.1,6085966,39.8,3.2
+2025-Q2,On-site Guarding,North,23.2,30.0,5010948,33.1,-0.3
+2025-Q2,On-site Guarding,East,7.2,31.1,8377900,56.7,0.3
+2024-Q1,Electronic Security,East,22.3,36.9,7704790,50.0,1.6
+2024-Q3,On-site Guarding,North,16.8,30.3,5444633,44.8,2.7
+2025-Q3,Mobile Patrol,West,23.3,20.1,6887267,46.1,4.3
+2024-Q2,On-site Guarding,West,20.9,45.6,6829278,41.0,0.1
+2024-Q1,On-site Guarding,East,20.7,55.6,1960889,31.6,2.1
+2025-Q2,Mobile Patrol,West,19.5,20.3,2845054,41.6,1.9
+2024-Q2,Mobile Patrol,North,24.7,46.7,2037183,39.9,4.2
+2025-Q1,Mobile Patrol,North,20.2,47.2,6049282,58.9,0.2
+2025-Q2,Mobile Patrol,East,21.4,28.6,2559875,37.2,4.3
+2024-Q4,Mobile Patrol,East,7.9,20.8,2597158,59.6,4.3
+2025-Q3,Electronic Security,West,20.8,33.5,8388797,32.7,-0.7
+2024-Q3,Electronic Security,West,24.8,30.6,7332595,36.0,3.2
+2025-Q1,On-site Guarding,West,20.8,51.1,9892043,52.1,-0.9
+2025-Q3,Electronic Security,South,21.0,49.3,6880960,47.7,4.0
+2025-Q3,Mobile Patrol,East,8.2,51.2,1843880,57.7,-0.1
+2024-Q3,Corporate Risk Management,North,11.3,35.5,6196871,37.6,0.4
+2025-Q1,Electronic Security,East,10.3,59.9,4204404,48.1,2.8
+2024-Q2,Mobile Patrol,West,17.6,58.0,4862060,41.6,4.6
+2024-Q2,Mobile Patrol,South,5.1,26.8,4533308,53.4,4.8
+2025-Q2,Mobile Patrol,West,7.2,34.5,1790740,47.2,2.5
+2024-Q3,On-site Guarding,North,17.5,33.0,2639735,39.6,0.3
+2024-Q1,Mobile Patrol,East,11.1,29.2,6473543,56.0,3.2
+2025-Q1,Electronic Security,North,11.1,56.3,4856340,31.1,1.0
+2024-Q2,Corporate Risk Management,East,6.5,46.6,9448482,33.2,4.6
+2024-Q2,Corporate Risk Management,South,6.7,27.2,3160148,50.7,0.9
+2024-Q2,Electronic Security,East,16.7,33.7,4102574,33.8,4.9
+2024-Q1,Electronic Security,West,22.4,26.6,8493980,45.0,-0.7
+2024-Q3,On-site Guarding,West,16.1,44.6,3505857,38.4,3.2
+2024-Q4,Corporate Risk Management,West,15.7,40.9,7607717,41.9,5.0
+2025-Q2,Mobile Patrol,West,12.3,40.2,3460493,45.8,-0.1
+2024-Q1,On-site Guarding,East,15.8,34.9,2721862,32.4,3.3
+2024-Q3,Electronic Security,South,17.1,55.0,7185686,35.9,4.3
+2025-Q2,Electronic Security,East,9.7,37.2,8795409,39.7,1.0
+2025-Q4,Electronic Security,South,20.6,39.1,4493842,37.5,3.0
+2024-Q3,On-site Guarding,North,12.6,22.6,2347769,52.4,4.2
+2024-Q2,Electronic Security,South,20.3,36.9,2564517,38.5,3.7
+2024-Q3,Corporate Risk Management,North,17.8,30.5,1325612,35.5,4.4
+2025-Q3,Mobile Patrol,West,14.5,26.4,4659033,47.4,1.4
+2024-Q4,Mobile Patrol,South,22.5,44.6,2234882,40.8,4.7
+2025-Q1,On-site Guarding,South,8.9,50.3,9743374,49.5,0.9
+2025-Q4,Corporate Risk Management,North,7.2,31.4,3550241,36.5,0.9
+2025-Q4,Mobile Patrol,East,6.7,27.1,4399506,43.4,3.2
+2024-Q4,On-site Guarding,East,17.5,28.1,2655908,37.7,1.1
+2024-Q1,Corporate Risk Management,West,6.7,39.3,4408286,37.1,4.1
+2025-Q3,Electronic Security,West,21.9,57.5,6735621,47.0,2.1
+2024-Q3,Electronic Security,West,7.3,32.4,3878768,35.7,-0.3
+2025-Q2,Corporate Risk Management,West,21.7,52.4,5668540,52.9,3.9
+2024-Q3,On-site Guarding,West,22.6,36.2,3929210,49.3,2.4
+2025-Q4,Electronic Security,West,7.7,26.9,4178857,30.3,0.3
+2025-Q3,Electronic Security,East,16.0,52.0,7833874,50.4,0.3
+2025-Q2,Electronic Security,South,13.6,31.3,3912592,51.6,3.0
+2025-Q4,Mobile Patrol,East,5.3,20.8,7877904,43.7,2.4
+2024-Q4,Mobile Patrol,East,16.0,50.5,2177046,35.0,-0.9
+2024-Q2,Electronic Security,South,19.0,30.3,1557255,50.8,3.3
+2025-Q1,Mobile Patrol,North,18.8,39.1,5205077,55.8,4.7
+2024-Q1,Corporate Risk Management,West,23.3,23.3,2721832,30.7,4.8
+2024-Q3,Electronic Security,North,9.1,28.8,2015798,56.4,0.8
+2025-Q1,On-site Guarding,South,24.0,33.9,1179095,41.4,3.8
+2024-Q4,On-site Guarding,North,16.2,26.3,9999294,55.3,3.3
+2025-Q2,Electronic Security,South,15.8,44.3,4490976,44.2,1.6
+2024-Q1,Corporate Risk Management,East,21.0,51.2,7810582,59.8,2.1
+2024-Q1,Corporate Risk Management,East,10.4,43.6,4763303,56.7,-0.4
+2024-Q2,On-site Guarding,West,17.5,49.9,6521985,52.4,1.1
+2025-Q3,Electronic Security,East,22.2,46.5,8809545,52.6,2.3
+2025-Q2,Mobile Patrol,West,7.4,21.6,3484455,30.7,2.6
+2024-Q4,Electronic Security,North,15.1,54.2,3021498,46.6,2.6
+2025-Q3,Electronic Security,South,22.7,56.8,7806340,36.9,2.5
+2024-Q2,Mobile Patrol,West,10.0,55.6,3532145,50.1,3.5
+2025-Q1,Corporate Risk Management,East,23.9,32.9,3561774,30.9,-0.3
+2024-Q4,Mobile Patrol,South,13.7,35.5,2750860,50.8,2.6
+2024-Q4,Mobile Patrol,West,12.0,23.1,8669872,45.4,1.0
+2025-Q2,Mobile Patrol,North,17.8,53.9,1436619,49.3,2.5
+2024-Q1,On-site Guarding,North,21.4,21.1,3462962,54.4,-0.5
+2024-Q3,Electronic Security,East,24.0,56.4,3117259,44.2,0.1
+2024-Q2,On-site Guarding,North,7.9,25.7,9612719,39.6,4.2
+2024-Q4,Corporate Risk Management,North,20.1,47.3,9209923,54.3,1.7
+2025-Q3,Corporate Risk Management,North,7.5,55.3,1471662,42.4,0.7
+2025-Q3,Mobile Patrol,North,20.2,47.7,7887020,35.6,-0.8
+2025-Q4,Corporate Risk Management,East,9.7,33.1,8986864,56.2,2.4
+2025-Q4,Electronic Security,West,16.6,49.1,3419868,56.3,4.9
+2025-Q2,Mobile Patrol,East,13.5,49.6,4579612,41.8,3.9
+2025-Q1,Mobile Patrol,West,9.2,38.2,4332471,47.4,1.3
+2025-Q4,Mobile Patrol,West,7.1,56.2,8451973,51.9,-0.7
+2024-Q1,Mobile Patrol,South,16.9,38.6,8696621,49.5,-0.7
+2024-Q1,On-site Guarding,West,19.8,46.7,6466722,34.3,1.1
+2025-Q3,On-site Guarding,North,15.7,57.1,2428115,33.0,1.5
+2024-Q1,Corporate Risk Management,West,22.7,25.3,5117884,49.8,0.3
+2024-Q2,On-site Guarding,East,9.0,23.4,5816774,45.3,4.3
+2024-Q4,Mobile Patrol,West,17.4,26.4,7838165,32.3,3.5
+2024-Q1,Corporate Risk Management,West,21.2,31.4,3333782,43.1,1.9
+2024-Q4,On-site Guarding,West,24.5,46.2,2525777,57.4,4.1
+2025-Q4,On-site Guarding,East,19.8,28.8,3714128,55.3,4.6
+2025-Q4,Electronic Security,South,16.0,27.1,2269867,52.6,-0.3
+2024-Q4,Mobile Patrol,South,15.4,50.6,9010509,43.8,2.4
+2025-Q2,Mobile Patrol,North,11.9,27.8,4090225,39.4,4.1
+2024-Q4,Mobile Patrol,South,14.5,47.7,8723991,52.9,3.5
+2025-Q3,Mobile Patrol,South,20.5,48.2,2515238,31.2,2.0
+2024-Q3,Mobile Patrol,South,15.5,52.7,3686099,52.6,4.3
+2024-Q3,Corporate Risk Management,West,23.8,51.0,3354214,31.0,0.2
+2025-Q2,Electronic Security,East,13.9,33.7,9003146,34.6,-0.3
+2024-Q3,Electronic Security,West,6.2,37.7,7390627,59.7,-0.9
+2025-Q1,On-site Guarding,North,13.8,49.3,4945866,45.2,3.6
+2024-Q3,On-site Guarding,East,23.3,34.0,7006863,49.9,2.3
+2025-Q1,Electronic Security,South,13.8,50.7,7748855,33.3,4.6
+2024-Q1,Electronic Security,West,13.6,52.9,5189746,45.6,3.5
+2024-Q3,Mobile Patrol,East,7.4,25.0,8186009,45.4,-0.5
+2025-Q2,On-site Guarding,South,15.1,34.2,5530686,56.6,-0.6
+2024-Q3,Electronic Security,North,24.7,52.2,7832810,58.9,3.5
+2024-Q3,On-site Guarding,East,18.1,24.2,4726355,32.1,-0.5
+2025-Q4,Electronic Security,West,20.6,35.4,8314946,34.0,3.6
+2025-Q2,On-site Guarding,East,11.1,30.4,2208332,45.0,-0.9
+2025-Q1,On-site Guarding,South,20.9,48.1,2129833,55.4,0.9
+2024-Q2,Mobile Patrol,West,11.5,44.4,7585592,50.2,0.4
+2025-Q3,Mobile Patrol,East,8.3,49.4,7641878,34.4,3.2
+2024-Q1,Electronic Security,East,10.2,57.0,4129933,34.6,0.2
+2025-Q3,Mobile Patrol,South,21.4,27.5,6251696,49.1,3.4
+2024-Q4,On-site Guarding,East,11.6,43.6,3526032,30.7,2.3
+2024-Q2,Electronic Security,West,9.2,42.6,3030802,49.5,0.9
+2024-Q3,On-site Guarding,North,17.2,31.2,9354584,47.8,0.6
+2025-Q2,Corporate Risk Management,West,12.8,42.3,4721911,35.7,1.8
+2024-Q2,On-site Guarding,West,11.0,21.1,5206008,45.4,0.8
+2024-Q3,Corporate Risk Management,South,11.5,20.9,8273077,36.6,-0.4
+2024-Q1,On-site Guarding,South,6.5,53.0,7565781,34.5,-0.3
+2025-Q2,Corporate Risk Management,East,12.6,58.0,5638390,53.7,1.5
+2024-Q4,Corporate Risk Management,West,13.2,25.7,1167527,50.4,3.5
+2024-Q3,Corporate Risk Management,West,6.7,32.3,1231621,59.1,1.1
+2025-Q2,Mobile Patrol,East,16.3,35.3,1504980,48.9,4.1
+2024-Q1,Mobile Patrol,North,13.4,35.1,3073596,46.3,0.8
+2024-Q2,Corporate Risk Management,West,8.9,26.7,5155003,39.7,-0.3
+2024-Q1,Electronic Security,West,15.0,49.3,7903578,54.4,0.1
+2024-Q2,Corporate Risk Management,South,18.2,29.9,6348646,57.2,1.1
+2025-Q2,On-site Guarding,West,19.8,37.5,2553630,52.6,3.2
+2025-Q2,On-site Guarding,East,17.5,35.5,6748025,49.1,4.5
+2024-Q4,Mobile Patrol,South,17.3,45.7,3790978,41.3,4.6
+2024-Q2,Mobile Patrol,North,22.1,43.5,1295911,51.3,0.5
+2025-Q1,Corporate Risk Management,West,20.9,38.0,8679718,43.3,0.2
+2024-Q4,Mobile Patrol,South,23.5,36.1,2676245,59.5,3.5
+2025-Q1,Mobile Patrol,South,19.5,43.9,9855698,53.2,0.0
+2024-Q4,Corporate Risk Management,West,15.5,41.6,5944440,54.1,4.2
+2024-Q1,Corporate Risk Management,East,12.7,38.6,8873174,32.0,3.1
+2024-Q1,On-site Guarding,South,18.8,44.5,3575298,35.0,0.1
+2025-Q2,Electronic Security,East,12.0,47.4,6518568,34.6,-0.3
+2025-Q2,On-site Guarding,South,22.3,58.0,5411595,57.5,1.5
+2024-Q2,Mobile Patrol,South,21.6,46.5,9594452,33.7,1.0
+2024-Q2,Corporate Risk Management,West,8.0,38.8,4863348,40.8,4.3
+2024-Q2,On-site Guarding,South,9.6,57.4,6146909,40.9,3.1
+2024-Q3,Mobile Patrol,East,6.1,30.3,1483992,38.2,2.4
+2025-Q2,Electronic Security,South,17.2,29.3,6198040,38.6,4.3
+2024-Q4,Electronic Security,South,22.0,46.4,1260703,46.6,2.9
+2025-Q2,Electronic Security,East,21.0,59.6,9522353,34.1,1.6
+2024-Q4,Mobile Patrol,West,18.5,57.0,2604002,43.0,-0.7
+2024-Q3,Mobile Patrol,West,16.5,55.7,8399430,34.9,0.3
+2025-Q1,On-site Guarding,North,14.3,26.1,4617064,31.4,3.6
+2025-Q4,On-site Guarding,North,16.7,37.4,1748976,40.5,-1.0
+2025-Q1,On-site Guarding,South,14.8,46.1,5623024,52.9,3.7
+2025-Q3,Corporate Risk Management,West,20.2,40.6,6467643,37.2,3.6
+2025-Q3,On-site Guarding,West,22.0,57.5,1257802,50.2,1.5
+2024-Q2,Electronic Security,West,20.5,36.7,7424278,50.1,3.9
+2024-Q4,Corporate Risk Management,East,21.5,23.5,3106043,46.9,2.2
+2025-Q2,Corporate Risk Management,East,15.4,32.0,3716732,42.4,1.4
+2024-Q4,Electronic Security,South,21.8,58.8,9757085,45.7,4.8
+2025-Q2,Electronic Security,West,20.3,32.1,1631779,37.7,0.1
+2024-Q2,Electronic Security,North,9.8,41.0,3467981,44.0,2.7
+2025-Q3,Corporate Risk Management,South,20.4,28.5,5154409,36.9,2.2
+2024-Q1,On-site Guarding,East,15.2,30.0,3535734,42.5,1.6
+2024-Q1,On-site Guarding,East,16.8,52.7,4392013,38.4,3.8
+2025-Q2,Corporate Risk Management,West,18.6,47.4,3225836,31.9,3.4
+2024-Q2,Corporate Risk Management,North,9.6,55.7,9264587,44.3,3.8
+2025-Q3,Corporate Risk Management,West,6.9,32.3,5108532,35.9,4.6
+2025-Q3,Mobile Patrol,West,9.9,30.4,3912949,56.0,4.8
+2025-Q4,Mobile Patrol,West,7.7,35.3,6258378,47.4,2.1
+2024-Q3,Corporate Risk Management,West,21.6,43.7,4492077,38.6,4.4
+2025-Q2,On-site Guarding,East,22.7,48.1,9035092,44.0,4.5
+2025-Q3,Electronic Security,East,10.6,28.0,2109257,55.5,-0.3
+2024-Q3,On-site Guarding,East,19.8,44.6,8411816,51.8,4.5
+2024-Q4,Electronic Security,West,11.7,44.6,1595526,45.9,3.9
+2025-Q3,Mobile Patrol,North,11.3,32.7,3382254,41.5,0.7
+2024-Q4,Mobile Patrol,North,14.4,27.8,3016419,42.0,4.9
+2024-Q2,Mobile Patrol,South,24.6,48.7,1162576,49.8,1.9
+2024-Q2,Mobile Patrol,East,11.1,51.4,4247331,53.9,4.1
+2025-Q1,On-site Guarding,South,8.3,39.0,4052307,39.9,1.9
+2025-Q1,On-site Guarding,North,21.6,36.4,3449758,44.4,0.9
+2025-Q1,Corporate Risk Management,North,8.1,49.6,1078840,39.9,-0.2
+2024-Q4,Corporate Risk Management,East,14.3,34.2,1982868,50.4,0.3
+2024-Q3,On-site Guarding,South,12.2,21.4,3262349,42.8,-0.2
+2024-Q1,Corporate Risk Management,West,10.0,38.5,5163944,53.7,2.3
+2025-Q3,On-site Guarding,West,18.6,59.8,9346643,48.4,0.9
+2024-Q4,Electronic Security,North,22.4,52.8,2942400,51.1,0.5
+2025-Q4,Mobile Patrol,North,19.9,49.5,4195370,43.1,4.8
+2024-Q1,On-site Guarding,South,15.5,34.3,3170910,51.7,4.3
+2025-Q1,Electronic Security,North,23.0,44.9,8305851,59.2,3.9
+2024-Q3,Mobile Patrol,North,12.6,41.3,9425276,47.2,-0.4
+2024-Q4,Corporate Risk Management,North,5.7,26.3,4085255,53.4,1.6
+2025-Q4,Mobile Patrol,North,10.2,45.7,9989118,42.4,0.8
+2025-Q2,Corporate Risk Management,East,14.0,49.9,2243973,58.1,0.7
+2025-Q2,Mobile Patrol,North,10.4,51.0,3138631,56.4,1.9
+2024-Q1,Electronic Security,South,8.0,32.5,4671273,33.2,2.5
+2024-Q2,On-site Guarding,North,24.0,21.8,4404136,41.0,-0.1
+2025-Q4,Corporate Risk Management,East,12.7,52.0,6796591,46.2,0.2
+2024-Q1,On-site Guarding,South,15.9,57.3,6150835,35.9,4.9
+2025-Q3,Corporate Risk Management,North,20.0,20.9,3140953,32.0,4.9
+2025-Q4,On-site Guarding,West,11.4,32.0,8543066,37.9,3.9
+2025-Q2,Corporate Risk Management,West,12.5,48.5,4218617,53.0,3.0
+2024-Q2,On-site Guarding,East,12.7,38.2,2499675,53.1,1.7
+2025-Q2,On-site Guarding,West,5.8,28.8,4047646,33.2,1.8
+2025-Q1,Corporate Risk Management,West,5.0,28.7,1544946,36.6,1.8
+2025-Q3,Mobile Patrol,East,6.1,52.5,2498013,57.3,0.5
+2024-Q1,On-site Guarding,South,22.1,26.0,3683212,48.0,-0.0
+2025-Q1,Mobile Patrol,West,6.6,33.2,8301141,38.8,-0.2
+2024-Q4,Corporate Risk Management,East,20.3,34.8,2983939,55.2,5.0
+2025-Q2,Corporate Risk Management,East,15.8,37.5,1623452,31.9,4.0
+2025-Q2,Electronic Security,East,22.7,38.6,3794223,44.6,4.9
+2024-Q2,On-site Guarding,South,11.5,25.7,1382541,30.1,2.0
+2024-Q1,Mobile Patrol,South,14.7,59.4,5386099,51.2,3.4
+2025-Q1,Electronic Security,North,15.1,45.0,6646982,53.8,1.5
+2024-Q4,Electronic Security,South,21.0,56.9,1849816,50.3,1.6
+2024-Q3,Mobile Patrol,South,14.2,58.6,5850268,50.0,1.1
+2025-Q1,Mobile Patrol,East,8.1,57.0,7142396,33.8,0.2
+2024-Q4,Electronic Security,East,11.9,49.3,6812848,48.2,-0.0
+2025-Q3,Mobile Patrol,East,22.7,44.6,7618635,54.8,3.3
+2024-Q3,On-site Guarding,North,18.0,27.1,5620294,52.1,2.6
+2025-Q3,Electronic Security,East,19.1,57.7,7573139,52.8,-0.3
+2024-Q2,Mobile Patrol,East,14.7,48.6,7404394,38.6,4.2
+2024-Q3,Corporate Risk Management,South,19.2,57.0,5664597,49.9,3.3
+2025-Q2,Electronic Security,East,13.2,44.2,2600163,44.0,2.2
+2024-Q3,Electronic Security,North,11.1,32.6,8775704,46.8,-0.0
+2024-Q1,Electronic Security,North,24.6,57.7,9583029,35.5,0.8
+2025-Q4,Mobile Patrol,North,18.6,39.3,3261097,30.0,1.8
+2025-Q3,Corporate Risk Management,South,19.7,48.7,3979677,50.5,2.4
+2025-Q3,Corporate Risk Management,East,18.2,28.5,2358509,30.9,2.8
+2025-Q4,On-site Guarding,South,16.5,22.2,8709574,57.6,1.5
+2024-Q4,Mobile Patrol,South,14.4,45.6,7197381,52.1,4.1
+2024-Q1,On-site Guarding,West,24.8,37.8,2453630,53.1,2.7
+2025-Q4,On-site Guarding,South,6.3,20.4,8249039,51.2,1.5
+2025-Q1,Mobile Patrol,West,16.5,27.9,8925518,39.1,1.4
+2024-Q1,On-site Guarding,West,19.6,36.4,8867279,51.6,0.1
+2024-Q4,Mobile Patrol,South,9.7,54.0,1680515,33.9,2.0
+2025-Q1,Corporate Risk Management,West,13.1,29.3,6889585,51.1,-1.0
+2025-Q2,On-site Guarding,North,16.3,33.6,9654677,39.9,1.5
+2025-Q1,On-site Guarding,West,20.1,52.4,2197545,40.0,-0.7
+2025-Q2,On-site Guarding,North,15.1,24.4,6389299,32.8,4.2
+2025-Q3,Corporate Risk Management,West,11.8,40.0,6548986,55.0,0.2
+2025-Q3,On-site Guarding,North,21.5,41.5,1866826,41.1,1.0
+2024-Q2,Corporate Risk Management,West,24.5,37.3,2150345,41.6,3.1
+2024-Q1,On-site Guarding,East,22.7,30.0,1360236,30.3,2.0
+2024-Q3,Corporate Risk Management,West,22.2,57.1,1195731,48.5,0.6
+2024-Q4,Electronic Security,East,17.7,59.5,5568597,39.4,3.7
+2025-Q4,Mobile Patrol,East,5.6,36.9,7789870,34.2,1.5
+2025-Q4,Electronic Security,East,18.4,56.6,2190175,43.1,1.1
+2025-Q3,Mobile Patrol,South,24.3,21.0,7292192,43.3,3.0
+2024-Q1,On-site Guarding,South,24.1,32.0,4571526,34.0,4.0
+2024-Q1,Electronic Security,East,24.1,57.1,9112162,47.3,2.6
+2024-Q4,Electronic Security,South,8.3,28.0,7249111,54.4,3.2
+2024-Q1,Mobile Patrol,North,15.7,26.7,5587285,40.9,3.5
+2025-Q1,Mobile Patrol,East,10.2,51.7,8886835,37.8,4.8
+2025-Q4,Mobile Patrol,North,15.5,38.5,1097282,52.4,0.3
+2024-Q3,On-site Guarding,North,15.3,22.8,5634101,32.0,1.6
+2024-Q4,Corporate Risk Management,South,18.0,24.4,1251392,34.9,1.9
+2024-Q3,Mobile Patrol,West,17.5,35.0,9870550,34.9,1.9
+2025-Q4,Electronic Security,West,11.6,41.3,1739598,52.4,3.7
+2025-Q2,Electronic Security,West,14.9,46.4,4206457,46.4,2.2
+2025-Q2,Mobile Patrol,West,14.6,25.4,1350389,33.8,4.5
+2025-Q1,Mobile Patrol,North,11.6,27.4,9910172,42.4,1.2
+2025-Q1,Mobile Patrol,East,10.7,52.9,6795347,50.4,0.2
+2024-Q1,On-site Guarding,South,15.4,24.7,2478020,36.6,2.0
+2024-Q2,On-site Guarding,South,12.3,27.4,2282594,37.8,2.1
+2024-Q3,Corporate Risk Management,West,22.2,20.8,6064504,37.1,3.3
+2024-Q1,Electronic Security,West,5.5,37.2,1246513,44.8,-0.8
+2024-Q1,Electronic Security,South,14.1,43.5,7789488,33.3,0.2
+2025-Q1,Corporate Risk Management,South,11.3,44.7,2848863,34.9,0.1
+2024-Q1,Corporate Risk Management,West,12.7,44.6,3641473,59.1,3.6
+2025-Q2,Mobile Patrol,South,24.4,42.8,2527841,53.0,2.8
+2024-Q3,On-site Guarding,South,22.9,42.9,7518625,44.2,0.7
+2025-Q3,Corporate Risk Management,East,15.9,24.4,5718167,30.9,1.2
+2025-Q3,Electronic Security,West,5.8,28.5,5178005,43.4,1.9
+2024-Q4,On-site Guarding,East,11.7,42.8,7951032,41.6,3.6
+2025-Q3,On-site Guarding,West,22.3,35.0,9801676,52.2,3.8
+2024-Q4,Mobile Patrol,South,14.6,32.4,5654618,56.2,3.0
+2025-Q2,Corporate Risk Management,South,14.8,47.6,9707068,51.2,3.7
+2025-Q1,Electronic Security,North,5.4,52.9,9556334,45.8,3.2
+2025-Q3,Electronic Security,West,18.5,29.5,3099629,30.2,4.5
+2024-Q1,Mobile Patrol,East,21.6,46.0,6282721,32.7,0.0
+2025-Q2,Electronic Security,South,24.7,25.5,2733349,56.9,-0.1
+2025-Q4,Corporate Risk Management,East,5.9,35.8,2152406,40.9,-0.6
+2025-Q3,Corporate Risk Management,North,24.4,56.5,3980518,48.2,0.1
+2025-Q3,Corporate Risk Management,South,23.8,36.9,1148351,54.9,2.5
+2025-Q1,Corporate Risk Management,South,5.9,52.0,6940068,57.4,5.0
+2024-Q1,On-site Guarding,East,20.3,36.4,7097860,56.8,-0.4
+2025-Q1,On-site Guarding,North,23.9,38.0,9242534,40.5,1.9
+2025-Q4,Corporate Risk Management,West,18.2,57.0,3942335,53.6,3.7
+2025-Q2,Corporate Risk Management,South,5.4,31.8,9703968,35.3,3.8
+2024-Q3,Electronic Security,South,23.1,20.6,4068519,42.5,0.1
+2024-Q3,On-site Guarding,East,15.3,35.7,3410506,56.0,2.2
+2025-Q2,Corporate Risk Management,North,6.9,21.8,6097659,37.7,4.0
+2024-Q1,Corporate Risk Management,East,15.0,28.8,4023719,34.6,-0.3
+2024-Q4,Electronic Security,South,19.4,54.4,6743520,43.2,1.1
+2025-Q2,Corporate Risk Management,South,11.7,43.8,3541274,47.3,1.0
+2025-Q1,On-site Guarding,South,25.0,24.7,1970203,45.2,3.2
+2025-Q3,On-site Guarding,North,10.8,33.6,3653801,60.0,0.0
+2024-Q1,Corporate Risk Management,North,17.7,41.0,9280187,48.4,0.4
+2024-Q1,On-site Guarding,South,11.9,23.6,3594382,54.1,2.4
+2025-Q4,Mobile Patrol,East,5.1,24.2,9395857,54.7,0.2
+2024-Q1,Electronic Security,West,20.4,54.1,1531025,59.3,2.3
+2025-Q2,Mobile Patrol,South,19.6,23.4,7896940,40.8,4.4
+2025-Q1,Mobile Patrol,West,15.5,50.1,4998753,48.2,-0.3
+2024-Q1,On-site Guarding,West,16.4,42.6,8088269,42.5,3.8
+2024-Q3,Corporate Risk Management,West,12.5,59.9,8804019,34.7,2.3
+2024-Q4,Corporate Risk Management,West,21.6,41.4,6272458,53.8,0.9
+2024-Q4,Corporate Risk Management,North,18.7,54.8,5282259,45.0,-0.7
+2024-Q4,Electronic Security,South,21.3,55.0,7507125,42.5,0.3
+2025-Q1,Electronic Security,North,21.2,35.9,8129364,48.4,2.3
+2025-Q2,Mobile Patrol,North,18.0,54.0,5668188,53.2,-0.6
+2024-Q2,Mobile Patrol,West,11.0,59.0,2990996,36.0,3.2
+2025-Q4,On-site Guarding,East,20.2,29.4,4139206,51.8,1.1
+2025-Q4,Corporate Risk Management,West,9.3,43.1,9478517,49.9,2.2
+2025-Q1,Mobile Patrol,North,17.4,42.4,5970233,58.1,0.7
+2024-Q4,Corporate Risk Management,West,18.1,31.5,9368777,54.2,3.1
+2024-Q3,Corporate Risk Management,East,14.8,40.6,6913577,32.7,-0.6
+2025-Q2,Corporate Risk Management,West,19.5,30.5,9739677,36.1,2.4
+2025-Q3,Mobile Patrol,North,8.6,28.9,4718199,32.2,1.9
+2024-Q4,On-site Guarding,North,10.8,50.7,4829185,34.5,0.8
+2025-Q1,On-site Guarding,East,18.1,39.4,6498035,57.4,3.8
+2025-Q4,Mobile Patrol,East,13.2,25.5,8895056,30.6,0.6
+2025-Q2,On-site Guarding,North,23.7,54.1,6808554,56.2,5.0
+2025-Q2,Corporate Risk Management,West,22.9,21.2,1106207,46.2,1.4
+2024-Q4,Corporate Risk Management,East,10.7,55.6,5439948,42.2,2.9
+2025-Q4,Corporate Risk Management,South,23.6,24.4,9998842,43.3,1.1
+2024-Q1,On-site Guarding,East,15.3,31.0,4108993,43.1,-0.7
+2025-Q1,On-site Guarding,South,20.6,50.9,5844059,46.9,3.9
+2024-Q4,On-site Guarding,North,9.6,31.1,2722424,35.2,2.2
+2024-Q2,Electronic Security,East,23.9,28.8,1606974,44.8,2.8
+2025-Q1,On-site Guarding,East,6.5,22.4,9931117,48.6,3.0
+2025-Q1,Mobile Patrol,West,17.8,24.8,2645864,51.9,2.7
+2025-Q2,Mobile Patrol,West,17.4,40.9,3381127,37.0,1.6
+2024-Q2,On-site Guarding,North,12.3,35.7,8586722,56.9,5.0
+2024-Q3,Corporate Risk Management,West,8.1,54.1,3407953,37.5,4.1
+2025-Q2,Corporate Risk Management,East,11.4,44.9,8575052,47.1,4.0
+2025-Q4,On-site Guarding,West,11.7,23.3,8307018,38.7,3.1
+2025-Q3,Electronic Security,North,16.8,30.8,3629319,32.0,2.8
+2024-Q4,Corporate Risk Management,South,8.4,50.4,1270505,49.8,-0.0
+2025-Q4,Electronic Security,West,19.9,59.0,1095868,57.0,2.1
+2025-Q1,Corporate Risk Management,South,14.7,50.0,8173127,49.0,-0.1
+2025-Q3,On-site Guarding,East,22.2,27.3,6123670,47.0,2.2
+2025-Q1,Mobile Patrol,West,10.6,48.8,9447192,53.0,4.2
+2024-Q3,Mobile Patrol,South,21.3,49.9,7317407,46.0,3.5
+2024-Q4,Mobile Patrol,North,6.3,21.9,3659762,54.8,-0.0
+2024-Q3,Corporate Risk Management,East,12.6,38.8,9095878,38.9,0.3
+2025-Q3,Electronic Security,North,22.1,36.2,1533205,57.1,4.0
+2025-Q3,Mobile Patrol,East,14.1,23.5,2095309,38.6,3.5
+2024-Q2,Corporate Risk Management,East,9.5,29.9,5634239,59.8,4.9
+2025-Q2,Corporate Risk Management,North,7.1,40.5,5584900,53.8,0.9
+2025-Q4,Mobile Patrol,North,16.2,43.9,6910829,58.2,1.6
+2024-Q3,On-site Guarding,North,8.9,35.5,8722297,59.4,4.8
+2024-Q4,Electronic Security,West,7.1,45.4,9308332,48.5,0.9
+2024-Q3,Corporate Risk Management,East,5.6,20.1,2399920,36.8,1.5
+2025-Q4,On-site Guarding,North,14.1,52.1,4708246,53.7,0.7
+2024-Q1,Electronic Security,East,16.6,56.4,8415619,47.8,2.0
+2025-Q2,Mobile Patrol,West,22.0,44.7,7673739,48.1,2.0
+2024-Q2,Corporate Risk Management,East,16.3,38.4,1509040,35.0,0.3
+2025-Q4,On-site Guarding,South,7.5,50.7,7842150,58.7,1.1
+2025-Q3,On-site Guarding,North,12.2,47.3,8253626,42.0,2.7
+2025-Q2,Electronic Security,South,19.4,23.2,6082459,50.2,1.1
+2024-Q2,Electronic Security,South,10.6,41.2,6179982,45.9,0.6
+2025-Q3,Electronic Security,West,7.9,23.0,8877941,50.1,-0.2
+2025-Q3,Electronic Security,South,15.1,50.9,6105813,56.0,3.1
+2025-Q3,Electronic Security,West,10.9,49.8,5621246,50.4,1.0
+2025-Q4,Electronic Security,East,20.7,27.8,6530521,50.8,2.5
+2024-Q3,On-site Guarding,North,6.2,50.6,2146609,45.4,1.3
+2025-Q2,Electronic Security,North,14.5,45.5,8994975,58.2,-0.5
+2025-Q4,Mobile Patrol,West,21.5,27.9,5975997,42.8,0.4
+2024-Q2,Electronic Security,North,11.2,47.2,7649871,46.6,-0.1
+2024-Q3,On-site Guarding,West,17.9,44.4,2585324,50.7,2.4
+2025-Q1,Electronic Security,South,22.8,24.1,7412854,53.7,-0.5
+2024-Q4,Mobile Patrol,West,21.4,27.6,8421615,56.0,1.4
+2025-Q3,Electronic Security,North,15.6,40.5,6122618,41.5,2.4
+2024-Q3,Mobile Patrol,South,11.9,44.6,9027131,30.5,1.9
+2024-Q4,Mobile Patrol,West,24.9,30.2,9987285,33.1,2.8
+2024-Q1,Electronic Security,North,21.5,47.5,1465377,46.8,1.3
+2024-Q4,Mobile Patrol,North,10.8,25.1,5730639,55.2,2.4
+2024-Q3,Mobile Patrol,West,24.7,45.4,3082542,44.4,3.4
+2025-Q2,On-site Guarding,East,21.7,42.7,3193266,30.7,3.7
+2025-Q4,On-site Guarding,West,25.0,57.7,9546238,44.3,0.6
+2024-Q1,On-site Guarding,South,25.0,44.6,6923249,50.1,3.5
+2024-Q3,Mobile Patrol,South,18.5,39.0,1794353,45.7,4.0
+2024-Q4,Mobile Patrol,West,13.5,59.0,3272064,47.8,0.5
+2024-Q2,Corporate Risk Management,South,5.9,46.5,5824606,42.4,-0.6
+2025-Q2,On-site Guarding,North,18.7,23.9,8569846,55.7,1.1
+2025-Q1,Corporate Risk Management,East,16.8,35.5,8147648,42.9,2.0
+2025-Q1,On-site Guarding,East,17.2,31.2,5990177,56.4,0.7
+2024-Q1,Electronic Security,East,14.0,45.9,7550137,34.3,1.2
+2024-Q2,Mobile Patrol,North,15.5,59.5,1596945,51.0,3.5
+2024-Q4,Corporate Risk Management,North,23.3,23.2,8783892,46.2,4.0
+2025-Q1,Mobile Patrol,South,21.6,43.2,3158415,58.9,1.1
+2024-Q1,Electronic Security,East,20.0,53.0,9147518,59.2,4.6
+2025-Q2,Corporate Risk Management,East,14.8,20.9,1942445,43.4,2.0
+2024-Q4,On-site Guarding,East,12.8,42.5,5204370,57.8,0.3
+2024-Q1,Corporate Risk Management,South,8.4,53.4,5277579,49.6,2.6
+2025-Q1,Corporate Risk Management,North,16.1,55.4,3926695,30.3,-0.5
+2025-Q4,Electronic Security,South,11.7,23.5,6430983,46.5,0.0
+2025-Q2,Corporate Risk Management,North,15.0,37.1,6386425,41.1,3.5
+2025-Q2,Electronic Security,West,15.9,39.8,1030871,51.9,1.8
+2025-Q4,Electronic Security,West,5.5,35.4,9482341,30.3,-0.6
+2024-Q1,Mobile Patrol,North,16.7,20.3,1215940,43.6,2.4
+2025-Q2,Corporate Risk Management,North,9.9,38.1,5167288,53.6,2.8
+2024-Q3,Corporate Risk Management,East,20.8,35.3,6824351,41.5,1.7
+2024-Q3,Corporate Risk Management,East,9.3,23.5,5620430,59.6,4.8
+2025-Q4,On-site Guarding,North,20.1,32.1,9917291,42.9,-0.5
+2024-Q1,On-site Guarding,South,9.5,28.2,1600848,52.2,-0.1
+2025-Q3,Corporate Risk Management,West,24.9,29.4,9920314,40.2,2.0
+2025-Q2,Electronic Security,North,24.7,40.2,4936520,51.3,-0.7
+2025-Q3,On-site Guarding,South,8.3,32.1,3819133,48.6,4.1
+2024-Q3,Electronic Security,West,23.1,55.7,7436110,31.9,0.7
+2024-Q2,Corporate Risk Management,North,19.2,24.8,6256594,58.3,2.9
+2024-Q1,On-site Guarding,East,12.2,29.6,5957683,58.2,0.2
+2025-Q2,Mobile Patrol,South,10.2,38.1,6631952,57.4,3.5
+2024-Q2,On-site Guarding,South,8.2,30.3,8668652,47.0,0.9
+2024-Q4,On-site Guarding,East,18.3,34.2,6104387,36.3,4.0
+2025-Q1,Electronic Security,West,17.5,28.2,4962796,33.6,3.3
+2025-Q1,Corporate Risk Management,North,23.7,29.6,8932469,45.5,0.5
+2024-Q2,On-site Guarding,North,13.1,44.6,7076358,52.7,2.1
+2024-Q2,Electronic Security,West,18.2,33.7,9092242,43.9,4.2
+2024-Q1,Mobile Patrol,West,24.2,56.2,1922886,52.1,0.1
+2025-Q3,Electronic Security,West,22.3,27.8,2847627,48.0,3.8
+2025-Q1,Electronic Security,West,13.5,46.5,6797544,56.3,-0.8
+2025-Q2,On-site Guarding,South,15.8,20.8,2851883,55.1,1.2
+2024-Q2,Electronic Security,South,21.1,25.1,6349068,57.8,0.8
+2025-Q2,Mobile Patrol,North,24.1,50.7,2678677,36.5,3.3
+2024-Q3,Electronic Security,South,19.4,33.2,2242895,45.2,2.2
+2024-Q4,Corporate Risk Management,South,9.2,29.1,6565269,36.4,4.8
+2024-Q3,Electronic Security,West,23.6,42.6,8237181,43.3,0.2
+2024-Q4,Electronic Security,West,15.6,29.6,1435131,31.4,-0.7
+2024-Q1,Electronic Security,North,22.4,57.9,1769825,57.3,2.6
+2024-Q2,On-site Guarding,South,19.4,36.4,5494657,36.0,3.7
+2024-Q3,Electronic Security,West,20.2,52.4,8977385,42.9,0.4
+2025-Q4,Mobile Patrol,South,13.4,59.4,2438243,59.3,0.3
+2024-Q4,Electronic Security,West,14.8,52.6,1110900,30.4,4.3
+2024-Q2,Mobile Patrol,East,9.8,24.3,7736769,38.3,0.4
+2024-Q3,Electronic Security,South,22.6,57.2,6663882,53.6,0.3
+2024-Q1,On-site Guarding,South,16.2,51.3,8056939,33.6,2.0
+2024-Q2,On-site Guarding,South,7.9,36.1,1656075,34.1,4.4
+2025-Q1,Electronic Security,West,14.1,44.5,4889229,50.5,1.1
+2025-Q4,Mobile Patrol,West,11.0,35.2,5463215,45.1,4.6
+2025-Q1,Electronic Security,South,20.8,21.0,7770442,49.4,0.1
+2025-Q4,On-site Guarding,North,7.1,22.1,7776012,36.2,3.3
+2025-Q4,Mobile Patrol,East,18.1,37.8,7167719,55.3,3.7
+2025-Q4,On-site Guarding,West,5.9,30.1,6145559,37.7,2.7
+2025-Q3,Corporate Risk Management,East,13.7,41.9,8635153,57.5,3.6
+2025-Q2,On-site Guarding,West,13.5,46.7,1553366,43.5,4.5
+2024-Q2,Corporate Risk Management,North,12.4,29.1,8848675,57.1,2.3
+2024-Q2,Mobile Patrol,North,24.7,57.8,8850608,53.5,1.1
+2024-Q1,Mobile Patrol,West,13.1,27.2,4242712,35.2,3.3
+2025-Q1,Electronic Security,East,21.5,22.7,5005126,54.5,1.7
+2024-Q4,Electronic Security,South,7.6,54.4,6661889,42.8,4.8
+2025-Q3,Mobile Patrol,South,22.6,29.5,6798207,49.6,3.8
+2024-Q3,On-site Guarding,South,12.6,39.2,4791009,48.5,3.9
+2025-Q3,Corporate Risk Management,East,22.1,52.2,2572543,43.4,0.1
+2024-Q4,Mobile Patrol,South,19.2,45.3,5869720,53.2,4.8
+2025-Q1,Mobile Patrol,East,19.7,31.6,7778696,59.9,-0.3
+2024-Q1,On-site Guarding,West,13.8,51.6,2888857,58.1,-0.7
+2024-Q2,Electronic Security,East,5.1,33.6,9362121,54.4,1.3
+2025-Q4,On-site Guarding,West,18.2,49.6,5677726,59.3,4.2
+2024-Q1,Mobile Patrol,West,15.6,29.8,7036381,56.9,3.9
+2024-Q2,Mobile Patrol,South,14.3,36.9,1073957,50.8,4.0
+2024-Q4,Mobile Patrol,East,24.2,48.9,7886347,41.0,0.8
+2024-Q4,On-site Guarding,West,23.0,41.3,9305675,30.9,2.5
+2025-Q4,Electronic Security,North,8.6,27.1,5847848,34.7,3.4
+2024-Q3,Mobile Patrol,West,13.6,55.8,3157171,39.0,2.9
+2024-Q3,Corporate Risk Management,South,7.2,41.6,7246699,59.2,2.3
+2024-Q4,Electronic Security,South,12.3,56.3,4174397,46.4,0.8
+2025-Q4,Mobile Patrol,West,17.0,29.0,3195422,41.4,0.5
+2025-Q4,Corporate Risk Management,East,23.5,51.8,6388347,49.1,1.0
+2025-Q4,Electronic Security,South,22.4,58.9,5635188,54.1,0.9
+2025-Q2,On-site Guarding,West,8.9,41.1,8000594,49.1,4.8
+2024-Q4,Mobile Patrol,East,6.0,30.9,1503175,43.4,1.5
+2025-Q4,On-site Guarding,West,12.2,36.3,8231799,48.7,1.0
+2024-Q2,Mobile Patrol,West,17.1,55.4,1930695,57.0,0.1
+2025-Q1,Corporate Risk Management,South,15.9,53.4,7913512,30.7,1.7
+2024-Q2,Corporate Risk Management,South,20.7,49.4,8416897,58.9,0.4
+2024-Q3,Corporate Risk Management,East,19.8,38.5,7932109,50.4,2.7
+2025-Q4,On-site Guarding,East,6.1,30.6,6152458,37.5,2.1
+2025-Q3,Mobile Patrol,South,10.0,51.4,6839835,55.1,1.8
+2025-Q1,Corporate Risk Management,North,9.1,20.9,1697887,58.0,2.4
+2024-Q1,Electronic Security,West,12.2,59.7,9122458,39.8,3.3
+2024-Q2,Electronic Security,East,23.8,27.7,3638457,57.2,1.1
+2025-Q3,Mobile Patrol,North,20.8,42.1,4571728,43.5,3.5
+2024-Q4,On-site Guarding,East,9.6,31.6,3187243,38.1,0.9
+2024-Q3,Mobile Patrol,East,17.8,59.5,9281016,36.9,-0.4
+2024-Q1,Corporate Risk Management,East,19.8,51.8,7261094,33.8,-0.1
+2025-Q1,Mobile Patrol,East,7.0,53.6,9788476,47.4,0.4
+2025-Q4,Corporate Risk Management,North,5.1,58.0,3110905,35.9,1.7
+2024-Q3,Mobile Patrol,West,14.9,36.5,6750547,30.5,3.7
+2025-Q3,Corporate Risk Management,North,24.8,23.6,7939263,35.9,3.6
+2024-Q1,On-site Guarding,South,18.5,53.0,2968294,35.3,2.8
+2024-Q4,On-site Guarding,South,9.8,57.8,2248578,34.8,0.2
+2025-Q3,Corporate Risk Management,East,22.0,28.1,7829025,33.1,1.5
+2025-Q3,Electronic Security,North,20.1,20.7,6741190,50.6,0.3
+2024-Q2,On-site Guarding,North,9.0,27.2,6394865,53.4,0.8
+2025-Q1,Corporate Risk Management,North,22.4,57.8,4366724,43.2,-0.9
+2024-Q1,Electronic Security,West,13.2,33.0,7495930,43.3,1.5
+2024-Q3,Mobile Patrol,North,24.0,50.1,2269692,45.7,0.0
+2024-Q4,Mobile Patrol,East,11.2,25.3,1828413,40.0,2.9
+2025-Q4,Corporate Risk Management,East,23.5,45.8,8173916,53.2,4.8
+2024-Q4,On-site Guarding,West,10.3,39.2,9189029,51.4,4.4
+2025-Q3,Electronic Security,South,23.2,39.9,6617785,53.8,-0.9
+2024-Q3,Electronic Security,East,9.8,28.0,3463901,36.5,1.7
+2025-Q4,Electronic Security,South,16.6,27.8,7852637,40.2,0.3
+2024-Q1,On-site Guarding,East,11.2,51.6,7459007,58.7,1.8
+2025-Q4,Corporate Risk Management,West,9.1,43.7,8573955,52.9,3.1
+2024-Q2,On-site Guarding,West,14.9,33.2,2042393,44.8,4.9
+2024-Q2,Corporate Risk Management,South,19.7,50.7,9457215,59.6,3.9
+2024-Q4,Electronic Security,North,6.6,25.8,9578635,30.7,-0.6
+2024-Q1,On-site Guarding,North,13.0,30.1,5681566,41.3,-0.8
+2024-Q2,Electronic Security,West,21.1,31.4,2752975,42.6,0.3
+2025-Q2,Electronic Security,South,21.9,30.4,2910997,59.5,2.2
+2025-Q2,On-site Guarding,East,16.7,37.8,5613306,49.4,5.0
+2025-Q3,Electronic Security,South,21.5,31.6,4848386,32.4,4.2
+2024-Q4,Corporate Risk Management,West,7.7,27.0,1089413,53.9,-1.0
+2025-Q4,Electronic Security,West,7.5,49.2,3443372,46.4,3.3
+2024-Q1,On-site Guarding,West,16.0,50.8,1433781,57.0,-0.9
+2024-Q2,Mobile Patrol,North,9.6,53.0,8809990,56.8,3.8
+2024-Q1,On-site Guarding,East,20.6,31.0,3655340,35.8,3.1
+2024-Q2,Electronic Security,North,18.3,51.3,3693966,41.5,4.2
+2024-Q2,Electronic Security,East,15.4,36.3,6648728,34.3,1.4
+2024-Q1,Corporate Risk Management,South,11.2,42.7,6079700,50.6,3.0
+2025-Q2,Corporate Risk Management,South,17.3,42.6,9249849,31.3,-0.6
+2024-Q4,Electronic Security,West,16.1,51.6,4976887,42.2,2.6
+2024-Q3,On-site Guarding,West,24.9,48.1,4458970,59.7,2.0
+2024-Q1,Electronic Security,West,22.3,58.7,2047660,49.4,1.2
+2024-Q4,Corporate Risk Management,North,17.9,51.1,6929227,57.5,3.9
+2024-Q1,Mobile Patrol,West,12.9,40.2,2497485,44.8,2.5
+2024-Q3,On-site Guarding,East,23.6,33.7,8190397,47.1,4.8
+2024-Q1,Mobile Patrol,North,23.1,20.6,4727997,45.3,2.9
+2025-Q1,Corporate Risk Management,North,6.2,59.1,3003337,49.5,1.0
+2025-Q4,Corporate Risk Management,East,16.1,50.7,4728093,43.6,1.3
+2024-Q2,On-site Guarding,North,14.6,57.5,6559897,40.8,3.9
+2024-Q1,Electronic Security,North,15.3,42.0,8854444,46.7,0.2
+2025-Q4,Mobile Patrol,North,16.1,41.7,2292664,52.0,1.8
+2025-Q4,On-site Guarding,North,5.6,23.9,6525090,53.9,-0.2
+2025-Q1,On-site Guarding,South,21.7,54.6,8197924,49.3,3.0
+2025-Q1,Corporate Risk Management,South,7.7,50.3,6488435,39.4,2.5
+2025-Q3,Electronic Security,North,9.8,58.3,9858763,38.7,4.5
+2025-Q3,Corporate Risk Management,West,12.4,26.2,6808830,34.7,3.5
+2025-Q3,Mobile Patrol,South,23.0,49.8,6914068,35.6,4.7
+2025-Q1,Electronic Security,West,21.7,21.2,8755085,47.2,2.6
+2024-Q1,Corporate Risk Management,South,16.0,49.4,1045573,56.9,4.1
+2025-Q4,Electronic Security,East,5.2,32.0,5032878,43.9,2.9
+2025-Q3,Corporate Risk Management,East,23.0,34.3,7678882,48.4,-0.5
+2024-Q1,On-site Guarding,East,8.1,42.4,3761382,36.8,1.3
+2024-Q4,Corporate Risk Management,West,6.7,34.5,6054497,47.5,4.1
+2024-Q3,On-site Guarding,South,8.6,53.6,6627666,59.1,4.9
+2024-Q4,Electronic Security,North,20.7,21.2,8242903,47.9,2.4
+2024-Q3,On-site Guarding,West,14.8,49.7,1044745,39.5,4.0
+2024-Q2,Mobile Patrol,West,17.8,27.0,9433145,34.8,4.5
+2024-Q1,Corporate Risk Management,West,24.6,35.5,3930528,34.7,-0.6
+2025-Q2,On-site Guarding,South,24.3,21.1,4911788,36.3,4.4
+2025-Q1,Mobile Patrol,West,8.7,34.5,2924483,35.6,0.1
+2025-Q3,Mobile Patrol,North,14.3,49.3,3919423,39.9,-0.5
+2025-Q2,Corporate Risk Management,North,13.1,53.7,4977030,53.2,2.9
+2024-Q4,Electronic Security,West,17.0,58.3,4492843,49.1,1.5
+2024-Q4,On-site Guarding,South,8.9,32.7,8638070,37.1,0.3
+2025-Q2,Mobile Patrol,West,20.2,55.0,9048776,39.1,-0.5
+2025-Q2,Mobile Patrol,East,22.0,59.9,5160611,55.9,3.2
+2024-Q1,Corporate Risk Management,North,17.9,22.2,9094195,52.0,2.0
+2024-Q1,Mobile Patrol,West,6.6,39.1,7199225,59.5,2.1
+2025-Q4,Electronic Security,West,15.3,28.3,2135702,40.8,2.5
+2024-Q2,Electronic Security,North,9.3,50.9,9243576,53.4,0.7
+2025-Q1,Electronic Security,South,17.9,45.2,5005795,57.8,-0.2
+2024-Q3,Corporate Risk Management,West,18.4,56.2,5895826,57.9,2.5
+2025-Q3,Corporate Risk Management,West,19.4,52.3,1626086,35.5,-0.7
+2024-Q4,Corporate Risk Management,West,8.8,29.1,8872180,56.7,0.9
+2025-Q1,Corporate Risk Management,North,7.2,57.1,4123223,39.2,3.8
+2024-Q1,Corporate Risk Management,West,16.7,39.4,1008335,32.6,4.8
+2025-Q1,Corporate Risk Management,East,17.0,43.0,1894674,39.9,-0.9
+2024-Q2,On-site Guarding,North,13.0,34.5,5710829,33.3,1.2
+2025-Q3,Mobile Patrol,West,15.4,53.3,1878388,34.9,0.7
+2024-Q2,Mobile Patrol,South,10.2,40.7,4490330,50.3,1.7
+2024-Q1,On-site Guarding,South,18.7,39.2,9914336,41.3,1.4
+2025-Q2,On-site Guarding,East,10.4,32.2,1705856,37.5,0.7
+2025-Q3,Mobile Patrol,North,22.6,26.8,6600636,45.0,0.7
+2024-Q1,Corporate Risk Management,West,13.9,39.2,3746627,38.5,4.5
+2024-Q3,On-site Guarding,South,23.5,41.1,4617976,40.2,-0.3
+2024-Q4,Electronic Security,South,17.0,44.9,5708319,35.6,4.6
+2025-Q1,Corporate Risk Management,North,24.6,39.8,8674031,42.4,0.9
+2024-Q4,Mobile Patrol,South,6.4,40.8,8346121,34.5,0.9
+2025-Q2,On-site Guarding,East,17.6,41.2,1388878,57.5,1.1
+2025-Q4,Electronic Security,West,10.6,28.5,8379338,53.8,4.2
+2024-Q3,Mobile Patrol,West,8.1,59.4,3446207,53.3,3.0
+2024-Q4,Corporate Risk Management,East,14.9,43.9,2885379,35.8,-0.7
+2025-Q3,On-site Guarding,East,17.5,54.3,8764965,38.7,-0.1
+2025-Q4,On-site Guarding,West,21.3,54.3,4241606,39.8,4.7
+2025-Q4,Mobile Patrol,South,10.7,25.9,8991769,32.2,2.5
+2024-Q3,On-site Guarding,South,19.6,34.3,2808539,59.2,1.9
+2024-Q4,Electronic Security,North,9.9,45.3,3222343,36.2,1.5
+2024-Q4,Mobile Patrol,West,6.5,46.1,8318192,43.6,4.4
+2024-Q1,Mobile Patrol,East,20.2,54.7,7989119,48.9,-1.0
+2025-Q3,Corporate Risk Management,East,14.7,34.5,7965554,54.3,4.5
+2024-Q4,Mobile Patrol,South,11.8,52.7,4575680,36.3,1.5
+2024-Q1,Mobile Patrol,East,9.8,25.1,6030935,45.2,4.3
+2024-Q4,Mobile Patrol,North,17.0,34.3,8242494,50.8,-0.9
+2025-Q2,On-site Guarding,North,13.5,58.3,2554240,57.6,0.5
+2025-Q3,On-site Guarding,East,7.0,44.7,7470435,39.0,1.1
+2024-Q1,On-site Guarding,South,24.2,45.9,2410387,51.5,2.4
+2025-Q1,Corporate Risk Management,North,10.1,58.9,7767587,34.2,4.2
+2025-Q3,Electronic Security,North,16.5,34.1,6076696,42.1,1.7
+2024-Q3,On-site Guarding,West,19.7,30.6,5157716,35.5,1.5
+2024-Q2,Mobile Patrol,South,8.3,29.4,8566724,40.0,3.6
+2024-Q4,Mobile Patrol,North,24.6,58.8,5728525,32.4,0.8
+2025-Q3,Corporate Risk Management,East,14.9,20.1,1285780,44.7,0.2
+2025-Q1,Mobile Patrol,South,6.3,25.3,8021298,59.3,-1.0
+2024-Q3,Electronic Security,West,20.2,34.0,1214617,45.8,4.5
+2025-Q3,Mobile Patrol,West,24.2,35.2,6247422,59.0,2.2
+2025-Q1,Electronic Security,North,14.1,47.5,7986252,59.1,1.6
+2024-Q2,Mobile Patrol,South,24.7,31.2,4629486,48.2,4.4
+2025-Q2,On-site Guarding,West,11.8,51.4,8558484,35.9,4.1
+2024-Q1,Electronic Security,West,5.2,32.1,9572429,34.5,1.9
+2025-Q4,Mobile Patrol,North,8.8,28.0,7483940,54.6,-0.2
+2025-Q3,Electronic Security,West,9.8,32.8,6321546,50.6,0.8
+2025-Q4,Electronic Security,East,22.1,54.1,4860919,39.5,-0.4
+2024-Q2,Mobile Patrol,South,13.7,45.8,9898080,57.7,3.6
+2024-Q1,On-site Guarding,South,13.2,42.3,8242196,54.3,1.1
+2025-Q1,Electronic Security,North,9.0,41.9,3940925,36.5,-0.8
+2024-Q3,Mobile Patrol,West,12.2,60.0,8366656,43.0,2.8
+2025-Q4,Mobile Patrol,North,13.4,47.3,4992799,58.8,3.9
+2024-Q3,Electronic Security,North,16.5,35.1,3362990,51.4,1.8
+2024-Q1,Corporate Risk Management,West,13.8,38.6,9131143,42.1,0.0
+2024-Q2,Electronic Security,West,20.8,42.0,1522645,58.9,1.7
+2024-Q1,Mobile Patrol,South,9.4,32.0,7494352,31.2,2.5
+2024-Q2,Corporate Risk Management,North,15.4,56.6,9206263,41.3,-0.9
+2024-Q2,Electronic Security,West,23.3,35.2,9484013,35.4,4.0
+2025-Q2,On-site Guarding,South,9.2,59.8,8509883,47.1,4.8
+2025-Q1,Corporate Risk Management,North,24.4,26.9,5259209,35.4,0.4
+2024-Q1,Mobile Patrol,North,19.4,41.3,5834153,51.8,4.9
+2024-Q1,Mobile Patrol,West,24.7,55.3,4634109,32.8,-0.5
+2024-Q3,On-site Guarding,South,10.4,38.1,9369999,48.7,1.3
+2024-Q4,On-site Guarding,East,14.4,36.8,2509397,48.1,3.8
+2025-Q4,On-site Guarding,East,6.4,26.3,2402861,45.0,1.1
+2024-Q2,Mobile Patrol,West,11.8,25.9,4351292,47.7,-0.4
+2025-Q4,Mobile Patrol,South,19.2,38.9,1202247,43.2,0.0
+2024-Q2,Mobile Patrol,West,18.6,22.7,7468307,42.9,2.1
+2024-Q1,Electronic Security,West,14.7,40.8,2206343,43.5,0.4
+2025-Q1,On-site Guarding,South,23.8,45.0,1444186,48.7,2.2
+2025-Q4,Corporate Risk Management,West,13.5,20.3,1756688,48.4,4.4
+2025-Q2,Electronic Security,East,11.3,33.0,9231801,42.3,4.2
+2025-Q2,Corporate Risk Management,East,18.8,43.1,7091234,31.3,0.9
+2024-Q4,Corporate Risk Management,South,6.1,21.4,1565460,56.0,4.0
+2024-Q2,Electronic Security,West,22.7,44.3,9947788,51.0,0.5
+2025-Q3,Corporate Risk Management,South,5.6,32.2,7178594,40.1,3.8
+2025-Q4,Electronic Security,East,5.3,28.0,8241640,44.8,-1.0
+2024-Q3,Electronic Security,North,6.5,47.9,7659860,32.5,3.5
+2024-Q1,On-site Guarding,East,15.0,54.7,2139569,52.6,2.8
+2025-Q2,On-site Guarding,South,23.8,38.8,7927186,40.4,3.2
+2024-Q2,Electronic Security,North,12.1,24.8,5981331,50.4,3.5
+2024-Q3,On-site Guarding,North,23.6,50.6,6572764,45.9,0.2
+2025-Q2,On-site Guarding,East,20.7,22.9,1090790,59.6,3.1
+2024-Q4,Corporate Risk Management,West,9.5,53.4,2487068,44.1,1.4
+2025-Q2,Corporate Risk Management,North,22.3,42.5,7717010,55.7,0.3
+2024-Q3,On-site Guarding,West,12.1,30.6,7319796,45.5,2.7
+2025-Q3,On-site Guarding,East,18.2,54.5,8449706,39.4,2.1
+2025-Q3,On-site Guarding,North,15.5,25.9,9618397,49.0,1.5
+2024-Q4,Mobile Patrol,East,9.5,43.9,2185024,45.8,2.0
+2025-Q1,On-site Guarding,North,18.8,21.3,1207039,40.4,4.8
+2024-Q2,Corporate Risk Management,East,11.3,51.8,8586458,34.7,0.3
+2024-Q3,Corporate Risk Management,West,12.6,56.7,9909391,49.0,0.3
+2025-Q2,On-site Guarding,South,19.8,40.5,7123854,43.5,4.9
+2025-Q1,On-site Guarding,East,16.5,24.3,2331757,36.3,4.4
+2025-Q3,Corporate Risk Management,West,11.6,41.0,6506807,44.6,1.0
+2025-Q1,Electronic Security,East,12.8,56.8,7104717,33.7,0.8
+2025-Q3,Corporate Risk Management,West,22.4,58.1,7121431,43.2,4.8
+2024-Q2,Electronic Security,West,14.8,34.0,9441131,45.1,1.8
+2024-Q1,On-site Guarding,South,17.1,59.9,4783463,57.7,2.1
+2025-Q1,Mobile Patrol,West,15.0,36.2,8980354,59.0,-0.4
+2025-Q1,On-site Guarding,West,23.3,32.6,2017846,51.5,4.6
+2024-Q3,On-site Guarding,West,8.9,57.7,2078507,40.8,0.4
+2025-Q2,Corporate Risk Management,West,22.8,52.3,9381806,34.2,4.7
+2024-Q2,On-site Guarding,North,11.7,28.7,5598965,54.3,3.8
+2024-Q2,On-site Guarding,North,7.5,49.9,4592137,40.4,4.8
+2024-Q1,On-site Guarding,West,14.5,44.9,8817748,35.0,1.4
+2025-Q2,Mobile Patrol,South,11.9,23.9,1244692,46.3,1.0
+2024-Q2,On-site Guarding,West,23.5,45.2,3805899,55.2,4.5
+2024-Q2,Electronic Security,West,12.1,28.0,3481800,40.8,2.1
+2025-Q4,Corporate Risk Management,West,19.2,40.9,2974368,32.4,4.5
+2024-Q4,Electronic Security,West,23.8,24.6,6482200,46.2,1.4
+2025-Q4,Mobile Patrol,West,7.6,51.3,1757283,40.9,2.2
+2025-Q3,On-site Guarding,North,24.9,23.4,7423930,53.8,0.0
+2025-Q3,Electronic Security,West,9.3,57.2,9158931,37.9,4.6
+2025-Q3,Corporate Risk Management,West,11.5,37.3,3069896,37.2,3.6
+2024-Q4,Corporate Risk Management,East,25.0,31.4,6981309,30.4,4.1
+2024-Q2,Corporate Risk Management,West,24.0,34.9,3512264,58.8,0.1
+2025-Q2,Corporate Risk Management,East,6.5,43.2,3462588,53.5,0.3
+2025-Q3,Electronic Security,East,19.8,59.7,7225456,32.3,4.2
+2024-Q3,On-site Guarding,North,9.3,57.2,1367942,31.4,2.1
+2025-Q3,Corporate Risk Management,West,20.0,39.6,4024332,33.1,0.6
+2024-Q4,Electronic Security,West,22.5,55.9,1567776,53.4,2.3
+2024-Q4,Electronic Security,West,11.9,59.4,2934688,37.4,2.3
+2024-Q2,On-site Guarding,South,8.8,54.6,5553992,44.6,2.6
+2024-Q4,Mobile Patrol,North,8.7,20.2,4632139,32.8,-0.9
+2025-Q3,Mobile Patrol,West,13.3,37.2,4277656,54.1,0.6
+2025-Q4,On-site Guarding,West,12.9,48.2,6103974,38.0,-0.8
+2024-Q1,Electronic Security,West,15.3,43.5,8467785,34.4,4.5
+2025-Q2,On-site Guarding,West,10.9,41.6,6593631,36.9,0.6
+2024-Q1,Mobile Patrol,West,12.5,49.5,4009830,49.3,1.1
+2025-Q1,Corporate Risk Management,South,7.0,53.5,1441469,34.7,2.8
+2024-Q2,Mobile Patrol,North,14.5,56.2,7932140,53.8,4.0
+2025-Q1,On-site Guarding,South,18.6,53.2,2973524,47.8,0.3
+2024-Q4,Mobile Patrol,West,16.3,37.4,2429376,48.9,4.2
+2024-Q2,Corporate Risk Management,West,8.1,34.6,4679676,36.9,1.8
+2024-Q2,Mobile Patrol,North,22.6,40.7,2003814,30.2,3.1
+2025-Q4,Mobile Patrol,East,8.3,20.2,5884753,43.8,1.0
+2024-Q2,Corporate Risk Management,North,10.5,22.6,8223648,59.4,3.2
+2025-Q4,Mobile Patrol,North,12.1,36.2,4717210,45.5,4.8
+2025-Q4,Mobile Patrol,West,16.7,28.1,6948717,32.3,-0.7
+2024-Q3,Mobile Patrol,West,17.3,38.0,3061839,52.5,3.2
+2025-Q3,On-site Guarding,South,20.6,44.9,4380482,36.3,0.9
+2024-Q2,Mobile Patrol,East,7.9,41.8,6734431,47.0,-0.9
+2024-Q2,Corporate Risk Management,South,7.2,26.5,1644912,52.9,2.2
+2025-Q3,On-site Guarding,West,20.0,54.1,1891475,39.8,2.0
+2024-Q3,Electronic Security,North,16.4,34.5,3858876,38.3,4.1
+2025-Q4,Electronic Security,West,6.4,26.4,1334138,49.4,2.9
+2025-Q1,On-site Guarding,South,10.8,41.0,2479254,36.7,-1.0
+2024-Q3,On-site Guarding,North,22.7,54.8,4709741,56.7,1.0
+2025-Q3,Mobile Patrol,North,17.7,58.9,3653946,48.3,1.3
+2024-Q3,Mobile Patrol,South,22.9,48.0,7286656,30.6,-0.8
+2025-Q3,Electronic Security,East,15.7,44.3,9668021,32.1,3.5
+2025-Q4,Corporate Risk Management,South,20.5,53.8,6571273,56.5,2.3
+2025-Q3,Corporate Risk Management,West,15.2,60.0,8893894,55.3,4.1
+2025-Q1,Mobile Patrol,West,11.5,39.8,9591945,39.6,1.0
+2024-Q2,Electronic Security,West,16.4,32.7,8241806,44.9,2.0
+2024-Q3,On-site Guarding,South,24.1,43.3,9633891,33.7,1.3
+2024-Q4,Corporate Risk Management,East,6.4,50.1,9645668,48.6,4.4
+2025-Q3,Mobile Patrol,West,17.5,39.7,3600800,40.2,1.9
+2025-Q3,Mobile Patrol,North,24.7,56.1,7259706,52.5,4.7
+2024-Q1,Mobile Patrol,North,24.8,54.3,1422329,38.0,0.1
+2024-Q4,On-site Guarding,West,8.0,40.4,2669067,38.2,1.6
+2025-Q4,Mobile Patrol,East,9.3,25.8,2937899,32.6,-0.9
+2025-Q3,Electronic Security,South,14.5,51.2,5228653,36.6,2.0
+2024-Q4,Electronic Security,North,23.8,20.4,6482772,38.1,2.4
+2025-Q1,On-site Guarding,East,13.1,26.5,7472711,38.1,4.6
+2024-Q1,Corporate Risk Management,East,16.3,34.6,3489699,58.2,-0.2
+2024-Q1,Corporate Risk Management,East,23.8,26.1,9675170,57.5,-0.6
+2025-Q4,Mobile Patrol,North,19.6,21.4,1062590,32.1,-0.6
+2025-Q1,Electronic Security,East,8.3,24.2,2339450,38.5,2.6
+2025-Q1,Mobile Patrol,South,19.1,42.6,2904662,42.5,3.2
+2024-Q4,Electronic Security,South,25.0,42.5,9960544,41.2,0.4
+2024-Q4,Mobile Patrol,North,5.9,36.5,7165011,57.1,4.2
+2025-Q1,Corporate Risk Management,North,22.9,22.1,3513771,36.8,0.7
+2024-Q4,Electronic Security,North,9.3,49.2,6078154,39.8,2.2
+2025-Q2,On-site Guarding,East,22.9,30.1,1238277,43.0,3.0
+2025-Q2,Electronic Security,South,11.2,47.5,6849272,32.7,1.6
+2025-Q3,Electronic Security,South,19.4,44.8,4651092,46.8,0.5
+2024-Q4,Electronic Security,South,13.2,55.7,1240990,45.4,0.6
+2024-Q1,Corporate Risk Management,North,6.7,45.9,8929529,52.4,2.1
+2025-Q2,Corporate Risk Management,West,15.7,48.2,8254675,48.7,-1.0
+2025-Q3,On-site Guarding,North,12.4,35.3,3485006,57.2,-0.1
+2024-Q3,Electronic Security,South,12.5,53.1,3163909,59.7,2.5
+2024-Q4,Mobile Patrol,North,21.1,55.2,5803045,33.8,2.8
+2025-Q2,Electronic Security,East,13.6,28.2,3185360,46.1,0.6
+2024-Q4,Mobile Patrol,North,11.9,23.0,8790838,58.3,0.8
+2025-Q2,Mobile Patrol,North,23.9,46.3,6811207,57.8,4.3
+2025-Q4,Electronic Security,West,24.0,40.6,4685328,30.9,1.7
+2024-Q3,Electronic Security,East,6.5,49.5,8003147,53.7,1.6
+2025-Q4,Corporate Risk Management,East,21.0,43.5,4462156,31.5,3.9
+2025-Q4,Electronic Security,West,6.1,22.3,4336394,38.3,0.1
+2024-Q3,Corporate Risk Management,South,22.7,51.6,1260197,39.1,1.5
+2025-Q3,Electronic Security,West,19.4,30.3,5312270,53.1,1.8
+2024-Q3,Corporate Risk Management,West,14.3,39.5,1557644,58.5,0.3
+2025-Q4,On-site Guarding,East,8.2,46.4,8456595,56.4,0.2
+2025-Q2,Mobile Patrol,South,6.3,23.9,1674499,53.3,4.6
+2024-Q1,Corporate Risk Management,West,7.2,50.8,6939383,39.6,0.9
+2025-Q3,Mobile Patrol,South,20.9,49.4,6793130,53.4,4.9
+2025-Q1,Corporate Risk Management,South,18.4,53.8,8498744,54.0,-0.7
+2025-Q3,Electronic Security,South,21.6,51.7,3800152,47.8,-0.5
+2025-Q1,Electronic Security,East,20.3,31.0,5285816,47.1,0.4
+2025-Q2,On-site Guarding,West,10.9,59.5,5511141,53.3,3.5
+2024-Q1,Electronic Security,North,5.3,41.9,1638585,46.9,-0.6
+2025-Q3,Electronic Security,South,20.6,20.6,4677329,38.1,4.4
+2024-Q4,Electronic Security,East,12.5,53.6,3598988,49.8,-0.2
+2024-Q4,Corporate Risk Management,East,7.0,33.8,4508340,41.1,4.3
+2024-Q2,Electronic Security,West,7.8,52.9,5139238,52.4,1.0
+2024-Q4,Mobile Patrol,North,21.6,59.2,4392609,55.4,-1.0
+2025-Q2,Corporate Risk Management,South,18.3,51.5,7460193,37.6,3.1
+2025-Q2,On-site Guarding,East,11.5,53.9,3823989,45.3,4.7
+2024-Q2,Corporate Risk Management,East,20.2,57.6,6493875,57.7,0.9
+2024-Q2,Mobile Patrol,East,5.5,31.2,4152736,38.8,-0.3
+2025-Q2,Mobile Patrol,South,9.0,49.8,8771497,46.3,4.2
+2024-Q2,Electronic Security,East,18.9,41.8,4374099,51.3,2.4
+2025-Q1,Corporate Risk Management,South,18.1,44.8,2076241,33.3,4.0
+2025-Q1,On-site Guarding,South,14.7,24.5,1080600,32.4,0.5
+2025-Q3,Mobile Patrol,South,18.3,34.1,4157711,57.4,4.5
+2024-Q4,Corporate Risk Management,West,19.5,22.3,1935076,34.7,3.9
+2025-Q4,Electronic Security,East,20.2,54.4,2722721,39.5,0.1
+2025-Q2,Electronic Security,East,8.9,22.3,3029411,42.7,3.9
+2025-Q2,On-site Guarding,South,13.4,36.0,9016094,47.0,2.5
+2024-Q1,Electronic Security,East,23.8,25.1,3626449,31.2,3.3
+2025-Q3,On-site Guarding,North,11.9,32.4,1580012,38.3,-0.3
+2024-Q2,On-site Guarding,West,18.7,41.6,9215226,51.1,1.4
+2025-Q1,Electronic Security,South,22.9,56.9,1642185,39.0,1.7
+2024-Q2,On-site Guarding,South,23.4,29.6,4888874,58.6,1.6
+2024-Q2,On-site Guarding,West,17.1,36.8,4717481,49.5,3.4
+2024-Q1,On-site Guarding,West,21.6,53.3,8684131,53.9,-0.2
+2024-Q4,Electronic Security,South,13.6,32.7,5728949,58.5,1.9
+2024-Q2,On-site Guarding,West,9.8,55.6,8403112,37.3,2.6
+2024-Q2,Corporate Risk Management,West,12.8,29.6,6326784,45.4,0.1
+2025-Q3,Corporate Risk Management,West,5.5,21.9,3583725,59.9,4.5
+2024-Q4,Corporate Risk Management,West,17.6,25.0,9166871,41.9,1.4
+2025-Q4,Electronic Security,West,24.1,31.8,1034695,47.7,0.1
+2025-Q3,On-site Guarding,South,12.7,46.2,4585342,34.9,4.1
+2024-Q2,Mobile Patrol,West,19.4,36.1,1662753,36.7,-0.9
+2025-Q1,Corporate Risk Management,South,17.5,27.5,2489118,50.4,-0.0
+2024-Q4,Electronic Security,West,5.7,47.4,1783051,41.3,1.4
+2024-Q1,Mobile Patrol,West,24.9,59.8,8812294,36.4,-0.4
+2024-Q1,Corporate Risk Management,South,16.3,33.7,7609598,32.4,2.1
+2024-Q4,Corporate Risk Management,South,11.4,21.0,8967977,44.4,1.8
+2025-Q1,On-site Guarding,West,17.2,31.2,8665055,58.1,3.2

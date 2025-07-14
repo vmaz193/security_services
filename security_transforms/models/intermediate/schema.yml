@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: int_staging__clients_enriched
+    description: "Enriches client data by calculating a client's status ('New', 'Active', 'At Risk', 'Churned') based on their service history and satisfaction levels."
+    columns:
+      - name: client_id
+        description: "The unique identifier for a client."
+        tests:
+          - not_null
+          - unique
+      - name: district_id
+        description: "The district associated with the client."
+      - name: client_status
+        description: "The calculated status of the client."
+        tests:
+          - accepted_values:
+              values: ['New', 'Active', 'At Risk', 'Churned']
+
+  - name: int_staging__finance_unioned
+    description: "Prepares financial data for allocation by combining operational financials and isolating corporate overhead costs to be distributed to districts."
+    columns:
+      - name: business_unit_id
+        description: "The business unit associated with the financial record."
+      - name: total_corporate_costs
+        description: "The total corporate overhead costs from the 'BU-HQ' unit."
+      - name: total_districts
+        description: "The total count of operational districts used for allocation."

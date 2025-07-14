@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: public
+    description: "Raw data loaded from CSV files."
+    tables:
+      - name: client_service_delivery
+      - name: finance
+      - name: growth
+      - name: risk_compliance
+      - name: workforce_operation
